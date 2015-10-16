@@ -3,6 +3,7 @@
 a node.js app that uses slack bot integrations to notify users when changes have been made to projects they have access to on gitlab.rim.net
 
 `npm install`
+
 `node index.js`
 (mongodb **required**)
 
