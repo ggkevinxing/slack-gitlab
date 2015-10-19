@@ -9,13 +9,14 @@ a node.js app that uses slack bot integrations to notify users when changes have
 
 # SETTING UP
 
-on the slack team, add a bot integration and place its token in a .env in the root folder (use .env.sample as an example)
+1. on the slack team, [add a bot integration](https://my.slack.com/services) and place its token in a .env, under var name `SLACKBOT_TOKEN`
+> you can use .env.sample as an example to help you get started
 
-then also place a mongodb database link in the .env
+2. place a mongodb database link in the .env, under var name `DATABASE_URI`
 
-> while originally written for blackberry's gitlab server, _any_ gitlab domain can be slotted into the .env and nothing else has to be changed 
+3. paste in your gitlab domain into the .env, under var name `GITLAB`
 
-run the app locally or elsewhere (i.e. heroku) and you can now interact with the bot and use commands
+4. run the app locally or elsewhere (i.e. heroku) and you can now interact with the bot and use commands
 
 > the app _will clear out all stored projectIDs to monitor on start-up_ in order to avoid errors related to channels already being monitored when trying to poll again
 
