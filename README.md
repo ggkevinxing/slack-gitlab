@@ -50,4 +50,4 @@ a node.js app that uses slack bot integrations to notify users when changes have
 
 ---
 
-![multiple projects handled with grace](https://raw.githubusercontent.com/ggkevinxing/slack-gitlab/master/screenshots/1.png?token=AHlqmwDPaiVjnSwfoJlAjFN2KsLJ2i96ks5WKm07wA%3D%3D) 
+![multiple projects handled with grace](https://raw.githubusercontent.com/ggkevinxing/slack-gitlab/master/screenshots/2.png?token=AHlqmwDPaiVjnSwfoJlAjFN2KsLJ2i96ks5WKm07wA%3D%3D) 
