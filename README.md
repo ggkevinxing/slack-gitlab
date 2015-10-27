@@ -46,4 +46,8 @@ a node.js app that uses slack bot integrations to notify users when changes have
 
 # screenshots
 
+![](https://raw.githubusercontent.com/ggkevinxing/slack-gitlab/master/screenshots/3.png?token=AHlqmwDPaiVjnSwfoJlAjFN2KsLJ2i96ks5WKm07wA%3D%3D) 
+
+----
+
 ![](https://raw.githubusercontent.com/ggkevinxing/slack-gitlab/master/screenshots/2.png?token=AHlqmwDPaiVjnSwfoJlAjFN2KsLJ2i96ks5WKm07wA%3D%3D) 
