@@ -1,6 +1,6 @@
-# slack-gitlab
+# GitLab Alerts for Slack
 
-a node.js app that uses slack bot integrations to notify users when changes have been made to projects they have access to on gitlab.rim.net
+a node.js app that uses slack bot integrations to notify users when changes have been made to projects they have access to on gitlab
 
 `npm install`
 
