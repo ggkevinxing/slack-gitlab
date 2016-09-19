@@ -1,5 +1,6 @@
 # GitLab Alerts for Slack
 (as seen on the [Slack API community](https://api.slack.com/community#javascript) page)
+
 a node.js app that uses slack bot integrations to notify users when changes have been made to projects they have access to on gitlab
 
 `npm install`
