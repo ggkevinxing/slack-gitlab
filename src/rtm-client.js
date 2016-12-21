@@ -10,7 +10,7 @@ var database = require ('./mongo-client');
 
 // Credentials/Config
 // use .env.sample as an example to put in your own token, then drop it in as .env to use it (shoutout to @plemarquand)
-var slackBotToken = process.env.SLACKBOT_TOKEN || "xoxb-10429033366-gIt7ljk7YJBNnL25MZmpk9LX";
+var slackBotToken = process.env.SLACKBOT_TOKEN;
 var autoReconnect, autoMark;
 
 var slack = new Slack(slackBotToken, autoReconnect = true, autoMark = true); // rtm
